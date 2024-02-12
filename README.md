@@ -13,18 +13,24 @@
 
 </div>
 <br>
+<br>
 
-## About Me
+## About Me 👨‍💼
 
 - 🔭 I’m currently working on [Gaia Medication](https://github.com/helldeal/SAE-5-GAIA)
-- 🌱 I’m currently learning **at University**
+- 🌱 I’m currently learning at University
 - 👨‍💻 All of my projects are available at [FlorianTran](https://github.com/FlorianTran)
 - 📫 How to reach me: [florian.tranpro@gmail.com](mailto:florian.tranpro@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/florian-tran-701839263/)
 
+<br>
+
+
 <div align=center>
 
-## Skills
+## Skills 💼
+
+<br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
@@ -48,7 +54,12 @@
 <img src="https://skillicons.dev/icons?i=symfony" height="45" alt="symfony logo"  />
 <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="arduino logo"  />
 
-## Social Media
+<br>
+<br>
+
+## Social Media 🌐
+
+<br>
 
 [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/florian-tran-701839263/)
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:florian.tranpro@gmail.com)
