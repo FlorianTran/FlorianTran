@@ -6,14 +6,12 @@
   <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=cda0ff&center=true&width=435&lines=Hello!+My+name+is+Florian+Tran;I'm+a+Passionate+french+Developer" alt="Typing SVG" />
 </div>
 
-
 <a href="https://github.com/floriantran/">
   <img src="https://github-readme-stats.vercel.app/api?username=floriantran&hide_title=false&hide_rank=false&show_icons=true&text_color=ffffffff&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&bg_color=00000000" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floriantran&layout=compact&langs_count=5&theme=material-palenight&hide_border=true&text_color=ffffffff&disable_animations=false&bg_color=00000000" />
 </a>
 
 </div>
-
 <br>
 
 ## About Me
@@ -23,7 +21,6 @@
 - 👨‍💻 All of my projects are available at [FlorianTran](https://github.com/FlorianTran)
 - 📫 How to reach me: [florian.tranpro@gmail.com](mailto:florian.tranpro@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/florian-tran-701839263/)
-
 
 <div align=center>
 
@@ -53,8 +50,7 @@
 
 ## Social Media
 
-[![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/florian-tran-701839263/) 
-[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:florian.tranpro@gmail.com) 
+[![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/florian-tran-701839263/)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:florian.tranpro@gmail.com)
 
 </div>
- 
