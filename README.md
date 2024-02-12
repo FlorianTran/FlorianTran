@@ -12,10 +12,12 @@
 </a>
 
 </div>
+
 <br>
 <br>
 
 ## About Me 👨‍💼
+
 
 - 🔭 I’m currently working on [Gaia Medication](https://github.com/helldeal/SAE-5-GAIA)
 - 🌱 I’m currently learning at University
@@ -26,11 +28,12 @@
 <br>
 
 
-<div align=center>
 
 ## Skills 💼
 
 <br>
+
+<div align=center>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
@@ -57,11 +60,15 @@
 <br>
 <br>
 
+</div>
+
 ## Social Media 🌐
 
 <br>
+<div align=center>
+  
 
 [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/florian-tran-701839263/)
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:florian.tranpro@gmail.com)
-
 </div>
+
