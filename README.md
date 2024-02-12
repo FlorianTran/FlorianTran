@@ -3,7 +3,7 @@
 # Hi 👋, I'm Florian Tran
 
 <div align=center>
-  <a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=cda0ff&center=true&width=435&lines=Hello!+My+name+is+Florian+Tran;I'm+a+Passionate+french+Developer" alt="Typing SVG" /></a>
+  <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=cda0ff&center=true&width=435&lines=Hello!+My+name+is+Florian+Tran;I'm+a+Passionate+french+Developer" alt="Typing SVG" />
 </div>
 
 
