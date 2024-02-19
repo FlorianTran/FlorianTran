@@ -7,7 +7,7 @@
 </div>
 
 <a href="https://github.com/floriantran/">
-  <img src="https://github-readme-stats.vercel.app/api?username=floriantran&hide_title=false&hide_rank=false&show_icons=true&text_color=ffffffff&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&bg_color=00000000" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=floriantran&layout=compact&langs_count=5&theme=material-palenight&hide_border=true&text_color=ffffffff&disable_animations=false&bg_color=00000000" />
 </a>
 
@@ -71,4 +71,4 @@
 [![Linkedin](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/florian-tran-701839263/)
 [![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:florian.tranpro@gmail.com)
 </div>
-
+ <img src="https://github-readme-stats.vercel.app/api?username=floriantran&hide_title=false&hide_rank=false&show_icons=true&text_color=ffffffff&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=true&bg_color=00000000" />
