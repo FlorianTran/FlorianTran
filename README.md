@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on [Gaia Medication](https://github.com/helldeal/SAE-5-GAIA)
 - 🌱 I’m currently learning at University
-- 👨‍💻 All of my projects are available at [FlorianTran](https://github.com/FlorianTran)
+- 👨‍💻 My projects are available at [FlorianTran](https://github.com/FlorianTran)
 - 📫 How to reach me: [florian.tranpro@gmail.com](mailto:florian.tranpro@gmail.com)
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/florian-tran-701839263/)
 
